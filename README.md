@@ -85,7 +85,7 @@ _In my non-coding hours, I enjoy sketching, 3D modeling, gaming, or embarking on
 
 </p>
  
-- <a href="https://github.com/boniphace478/BONIPHACE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/Official123-12/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 star✨ my repo if you like this bot🤖
@@ -163,7 +163,7 @@ star✨ my repo if you like this bot🤖
 
 **OWNER**
 <p align="centre">
-  <a href="https://wa.me/message/HVPSEJDVDNAEG1">
+  <a href="https://wa.link/2cwot8">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
 
@@ -176,32 +176,30 @@ star✨ my repo if you like this bot🤖
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.me/message/HVPSEJDVDNAEG1" target="_blank">
+<a href="https://wa.link/2cwot8" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/boniphace tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
  
-<a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ BONIPHACE_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/HBGpcURrVTh7AnMPheui0X" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ STANY-TECH_TECH  GROUP -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 ## License
 
-The WhatsApp Bot BONIPHACE-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot STANY-TECH-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-🌟 THANK YOU FOR CHOOSING BONIPHACE-MD 🌟
+🌟 THANK YOU FOR CHOOSING STANY-TECH-MD 🌟
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEVELOPERS :
 
-- [**BONIPHACE TECH**](https://github.com/boniphace478)
+- [**STANY-TECH TECH**](https://github.com/Official123-12)
 - [**Developers YT**](https://youtube.com/@anthonyboniphace?si=86VHGM7BZ4Q_OQYO)
-- [**HANSTZ TECH**](https://github.com/HANSTZ3)
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-★THANKS BE TO GOG 🙏. ©
+★THANKS BE TO GOD 🙏. ©
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
      
