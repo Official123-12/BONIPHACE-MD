@@ -11,7 +11,7 @@
  <a href="https://files.catbox.moe/rnncfx.gif">
  <img alt="STANY-TECH-MD" height="300" src="https://files.catbox.moe/rnncfx.gif">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+𝗕𝗢𝗡𝗜𝗣𝗛𝗔𝗖𝗘+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐁𝐎𝐍𝐈𝐏𝐇𝐀𝐂𝐄+𝐓𝐄𝐀𝐌;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+STANY-TECH;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒STANY-TECH࿐;💕𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥;😁𝐰𝐚+𝐛𝐨𝐭🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+STANLEY+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+STANY-TECH+𝐓𝐄𝐀𝐌;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+STANY-TECH;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒STANY-TECH࿐;💕𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥;😁𝐰𝐚+𝐛𝐨𝐭🌹)](https://git.io/typing-svg)
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -69,7 +69,7 @@
 
 <h1>Hey there! 👋</h1>
 
-<br><br> _Hi, I'm **BONIPHACE MD**, a frontend developer dedicated to crafting seamless digital experiences. With a keen eye for design and a knack for coding, I blend creativity with functionality to build sleek, responsive websites and intuitive web applications_
+<br><br> _Hi, I'm **STANY-TECH-MD**, a frontend developer dedicated to crafting seamless digital experiences. With a keen eye for design and a knack for coding, I blend creativity with functionality to build sleek, responsive websites and intuitive web applications_
 <br><br>
 _In my non-coding hours, I enjoy sketching, 3D modeling, gaming, or embarking on cosmic exploration._ 🌌
 <br><br>
@@ -80,7 +80,7 @@ _In my non-coding hours, I enjoy sketching, 3D modeling, gaming, or embarking on
 
 
 ## 1.FIRST STEP 
-## Fork Boniphace Md Repo
+## Fork Stany-tech Md Repo
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐶𝐿𝐼𝐶𝐾+𝑇𝑂+𝐹𝑂𝑅𝐾+𝑇𝐻𝐸+𝑅𝐸𝑃𝑂)](https://git.io/typing-svg)
 
 </p>
