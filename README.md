@@ -21,7 +21,7 @@
 
 </p>
   <p align="center">
-<a href="https://github.com/boniphace478/followers"><img title="Followers" src="https://img.shields.io/github/followers/boniphace478?color=blue&style=flat-square"></a>
+<a href="https://github.com/Official123-12/followers"><img title="Followers" src="https://img.shields.io/github/followers/boniphace478?color=blue&style=flat-square"></a>
 <a href="https://github.com/boniphace478/BONIPHACE-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/boniphace478/boniphace-md?&style=social"></a>
 <a href="https://github.com/boniphace478/boniphace-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/boniphace478/boniphace-md?style=social"></a>
 <a href="https://github.com/boniphace478/boniphace-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/boniphace478/boniphace-md?label=Watching&style=social"></a>
@@ -196,8 +196,7 @@ The WhatsApp Bot STANY-TECH-MD is released under the [MIT License](https://opens
 
 ## DEVELOPERS :
 
-- [**STANY-TECH TECH**](https://github.com/Official123-12)
-- [**Developers YT**](https://youtube.com/@anthonyboniphace?si=86VHGM7BZ4Q_OQYO)
+- [**STANY-TECH-BOT**](https://github.com/Official123-12) YT**](https://youtube.com/@anthonyboniphace?si=86VHGM7BZ4Q_OQYO)
  
 ★THANKS BE TO GOD 🙏. ©
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
