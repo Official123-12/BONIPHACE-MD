@@ -167,12 +167,7 @@ star✨ my repo if you like this bot🤖
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
 
-**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
-<p align="centre">
-  <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-
-   ###
+ ###
 
 CONTACT DEVELOPER ON WHATSAPP 
 
