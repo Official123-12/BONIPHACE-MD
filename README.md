@@ -26,10 +26,10 @@
 <a href="https://github.com/boniphace478/boniphace-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/boniphace478/boniphace-md?style=social"></a>
 <a href="https://github.com/boniphace478/boniphace-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/boniphace478/boniphace-md?label=Watching&style=social"></a>
 <a href="https://github.com/boniphace478/BONIPHACE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/boniphace478/BONIPHACE-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/boniphace478/BONIPHACE-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Official123-12/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{boniphace478}/count.svg" alt="Boniphace-md :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{offial123-12}/count.svg" alt="stanytech-md :: Visitor's Count"/></p>
 
 ---
 
